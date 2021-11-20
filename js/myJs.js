@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "Hí, con quỷ :33",
+  text1: "Hello con chó !",
   text2: "T có điều này muốn hỏi, m nhớ phải trả lời thật lòng nhaaa.",
-  text3: "m đang nhớ t vl đúng không con quỷ :v",
-  text4: "Nếu m ko trả lời mà thoát ra tức là muốn làm vợ t rùi đó nha :v",
+  text3: "m bị ngáo đá đúng không con chó :v",
+  text4: "Nếu m ko trả lời mà thoát ra tức là tự nhận làm chó :v",
   text5: "Không hề",
-  text6: "Nhớ ơi là nhớ ý <3",
-  text7: "lí do m nhớ t đi :vvvv",
-  text8: "Gửi cho t <3",
-  text9: "Vì bạn Tún người iu tui đẹp trai vờ lờ <3",
-  text10: "t biết mà ^^ Yêu m 300.000",
+  text6: "T bị ngáo đá bẩm sinh",
+  text7: "Tự khen m một câu đi",
+  text8: ":))",
+  text9: "Vì t bị ngáo đá, ăn sinh tố xoài bị ải chỉa",
+  text10: "t biết mà :)) nghiệp",
   text11:
-    "Lát nữa rảnh call video hong ??? Còn giờ thì chờ gì nữa mà ko inbox cho t đi nàooo",
-  text12: "Okii lunn <3",
+    "COn chó",
+  text12: "oke",
 };
 
 $(document).ready(function () {
